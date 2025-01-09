@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.image-area{
+
+}
+
+.form-area{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-wrapper{
+    display: flex;
+}
+
+.left-side{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-side{
+    display: flex;
+    flex-direction: column;
+}
